@@ -16,7 +16,7 @@ Accessing Oracle  is not convenient when people are on the Go. Manual decisions 
 
 <p><a href="http://www.algarytm.com/wp-content/uploads/2017/06/Check-Details-Oracle-App-Smart-PO-Approval-1.jpg" target="_blank"><img src="http://www.algarytm.com/wp-content/uploads/2017/06/Check-Details-Oracle-App-Smart-PO-Approval-1.jpg" alt="A screenshot of Smart PO Approval's Approval Screen for Oracle EBS" title="Screenshot from PO Approval app for Oracle EBS" data-canonical-src="http://www.algarytm.com/wp-content/uploads/2017/06/Check-Details-Oracle-App-Smart-PO-Approval-1.jpg" style="max-width:70%;"></a></p>
 
-# <a>Reach us to <a href="http://www.algarytm.com/algarytm-products/smart-po-approval/">Know more about other Oracle EBS apps and Get them for Free from our site.</a>
+# <a href="http://www.algarytm.com/algarytm-products/smart-po-approval/">Experience our Oracle EBS apps and Get them for Free.</a>
 
 # Why need mobile approvals for Oracle E Business Suite (EBS)
 Mobile approvals are important for companies to run faster and smoother. <a href="http://www.algarytm.com/need-business-mobile-app-approvals/" rel="dofollow">Know the benefits from mobilizing Oracle EBS.</a>
